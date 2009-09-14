@@ -1,0 +1,4 @@
+cron:
+- description: availability checking
+  url: /notify
+  schedule: every 5 minutes
